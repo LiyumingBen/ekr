@@ -1,0 +1,26 @@
+{
+  "name": "ekr",
+  "version": "1.0.0",
+  "description": "科技企业",
+  "scripts": {
+    "dev": "mor compile --watch",
+    "compile": "mor compile --production"
+  },
+  "keywords": [],
+  
+  "author": "liyuming <15527729736@163.com>",
+  
+  
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:LiyumingBen/ekr.git"
+  },
+  
+  "license": "",
+  "dependencies": {
+    "@morjs/core": "*"
+  },
+  "devDependencies": {
+    "@morjs/cli": "*"
+  }
+}
